@@ -7,8 +7,7 @@
 
 |Message name|Transmitter|CAN ID|Message status|
 |-----------|-----------|------|------|
-|Torque 1|DME1 / DDE1|[0x0A8](docs/0x0A8.md)|fully decoded|
-|Torque 2|DME1 / DDE1|[0x0A9](docs/0x0A9.md)|fully decoded|
+|Torque 1|DME1 / DDE1|[0x0A8](docs/0x0A8.md)|partially decoded|
 |Torque 3|DME1 / DDE1|[0x0AA](docs/0x0AA.md)|fully decoded|
 |Retard request ACC|ACC|[0x0AD](docs/0x0AD.md)|TBD, partially decoded|
 |Torque request EGS|EGS|[0x0B5](docs/0x0B5.md)|fully decoded|
