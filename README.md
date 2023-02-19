@@ -1,6 +1,6 @@
-# E65 Reverse Engineering
+# Mini R56 Reverse Engineering
 
-## Reverse engineering on PT-CAN and Local-CAN of BMW E65/E66 ##
+## Reverse engineering on K-CAN of BMW Mini Cooper S R56, Automatic Transmission, e ##
 
 ## CAN-IDs in PT-CAN BMW E65 with MED 9.2.1 ##
 ### The information about the CAN messages and signals was taken from the original Bosch document that I found in a forum on the Internet. They were compared with my own BMW 760Li year of construction 09/2006 model year 2007. This car has a MED 9.2.1 installed, a further development of a MED 9.2 that was used with the E65 V8. ###
