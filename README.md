@@ -2,13 +2,12 @@
 
 ## Reverse engineering on K-CAN of BMW Mini Cooper S R56, Automatic Transmission, e ##
 
-## CAN-IDs in PT-CAN BMW E65 with MED 9.2.1 ##
-### The information about the CAN messages and signals was taken from the original Bosch document that I found in a forum on the Internet. They were compared with my own BMW 760Li year of construction 09/2006 model year 2007. This car has a MED 9.2.1 installed, a further development of a MED 9.2 that was used with the E65 V8. ###
+adaptation to R56 results in progress...
 
 |Message name|Transmitter|CAN ID|Message status|
 |-----------|-----------|------|------|
 |Torque 1|DME1 / DDE1|[0x0A8](docs/0x0A8.md)|partially decoded|
-|Torque 3|DME1 / DDE1|[0x0AA](docs/0x0AA.md)|fully decoded|
+|RPM throttle|DME1 / DDE1|[0x0AA](docs/0x0AA.md)|partially decoded|
 |Retard request ACC|ACC|[0x0AD](docs/0x0AD.md)|TBD, partially decoded|
 |Torque request EGS|EGS|[0x0B5](docs/0x0B5.md)|fully decoded|
 |Torque request DSC|DSC|[0x0B6](docs/0x0B6.md)|fully decoded|
